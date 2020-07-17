@@ -17,4 +17,4 @@ Tela interativa onde ocorre o cadastramento de um novo perfil, que deve ser úni
 
 Gerenciar Cargos
 
-Parte do projeto onde ocorre o cadastramento de novos cargos, quando você selecionar o botão salvar após digitar o nome do novo cargo, ele será adicionado à lista de cargos (tendo um limite de 4 cargos) caso o campo esteja vazio e o usuário tente salvar, uma mensagem irá avisá-lo que o campo e obrigatório. Caso pressionado o botão voltar, o usuário será redirecionado para a janela inicial do projeto. e o projeto.
+Parte do projeto onde ocorre o cadastramento de novos cargos, quando você selecionar o botão salvar após digitar o nome do novo cargo, ele será adicionado à lista de cargos (tendo um limite de 4 cargos) caso o campo esteja vazio e o usuário tente salvar, uma mensagem irá avisá-lo que o campo e obrigatório. Caso pressionado o botão voltar, o usuário será redirecionado para a janela inicial do projeto.
