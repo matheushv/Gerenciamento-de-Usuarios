@@ -1,4 +1,4 @@
-# Gerenciamento-de-Usuários
+# Gerenciamento de Usuários
 
 Este projeto tem como intuito simular um sistema de gerenciamento de usuários.
 Foi utilizado a IDE NetBeans para  auxiliar na criação de janelas, labels, botões e campos de texto (utilizando swing), assim como em sua estilização.
